@@ -1,11 +1,11 @@
 {
   "name": "umi-plugin-area",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": {
     "name": "jinxin0112",
     "email": "m18508218948@163.com"
   },
-  "repository": "/umi-plugin-area",
+  "repository": "git@github.com:jinxin0112/umi-plugin-area.git",
   "peerDependencies": {
     "umi": "2.x"
   },
@@ -23,6 +23,5 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "deeplyassign": "^1.1.0"
-  },
-  "repository": "git@github.com:jinxin0112/umi-plugin-area.git"
+  }
 }

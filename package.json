@@ -1,0 +1,28 @@
+{
+  "name": "umi-plugin-area",
+  "version": "0.0.1",
+  "authors": {
+    "name": "jinxin0112",
+    "email": "m18508218948@163.com"
+  },
+  "repository": "/umi-plugin-area",
+  "peerDependencies": {
+    "umi": "2.x"
+  },
+  "scripts": {
+    "prepublishOnly": "np --no-cleanup --yolo --no-publish"
+  },
+  "devDependencies": {
+    "np": "^3.0.4"
+  },
+  "files": [
+    "index.js",
+    "utils.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "deeplyassign": "^1.1.0"
+  },
+  "repository": "git@github.com:jinxin0112/umi-plugin-area.git"
+}
